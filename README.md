@@ -16,5 +16,5 @@ Para fazer gráficos mais avançados, utilizei a biblioteca plotly para Python. 
 - As lojas vendem mais na segunda-feira, entre as 6h e 10h.
 - O comportamento de vendas das lojas é similar, permitindo decisões gerais sem necessidade de estratégias individualizadas.
 
-Obs: Os gráficos interativos do Plotly não funcionam no github, para visualizar utilize o este [Link do Kaggle](
+Obs: Os gráficos interativos do Plotly não funcionam no github, para visualizar utilize o este ![Link do Kaggle](
 https://www.kaggle.com/code/lucassedu/an-lise-da-cafeteria)
