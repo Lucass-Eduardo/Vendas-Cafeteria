@@ -15,3 +15,5 @@ Para fazer gráficos mais avançados, utilizei a biblioteca plotly para Python. 
 - A análise de vendas de 3 cafeterias da Maven Roasters em Nova York revelou uma tendência de crescimento linear.
 - As lojas vendem mais na segunda-feira, entre as 6h e 10h.
 - O comportamento de vendas das lojas é similar, permitindo decisões gerais sem necessidade de estratégias individualizadas.
+
+- obs: Os gráficos interativos do Plotly não funcionam no github, para visualizar utilize o este (Link)[https://www.kaggle.com/code/lucassedu/an-lise-da-cafeteria]
